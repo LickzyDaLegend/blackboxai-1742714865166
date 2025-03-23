@@ -137,3 +137,46 @@
 2025-03-23 07:27:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
 2025-03-23 07:27:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
 2025-03-23 07:28:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:28:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:29:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:29:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:30:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:30:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:31:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:31:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:32:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:32:42 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:32:42 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:32:42 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:32:42 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:32:42 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:32:42 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:32:42 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:32:42 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:32:42 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:32:45 - discord_bot - INFO - Logged in as Mystic Looker
+2025-03-23 07:32:45 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:32:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:32:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:33:15 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:33:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:33:21 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:33:21 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:33:21 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:33:21 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:33:21 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:33:21 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:33:21 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:33:21 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:33:21 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:33:23 - discord_bot - INFO - Logged in as Mystic Looker
+2025-03-23 07:33:23 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:33:26 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:33:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:33:54 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:34:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:34:24 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:34:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:34:54 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:35:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:35:24 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
