@@ -1,0 +1,137 @@
+2025-03-23 06:33:50 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 06:33:50 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 06:33:50 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 06:33:51 - discord_bot - INFO - Loaded extension cogs.ai_chat
+2025-03-23 06:33:51 - discord_bot - ERROR - Failed to load extension cogs.help_menu: Extension 'cogs.help_menu' raised an error: CommandRegistrationError: The command help is already an existing command or alias.
+2025-03-23 06:33:51 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 06:33:51 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 06:33:51 - discord_bot - ERROR - Failed to load extension cogs.utility: Extension 'cogs.utility' raised an error: TypeError: Commands or listeners must not start with cog_ or bot_ (in method Utility.bot_info)
+2025-03-23 06:33:51 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 06:50:12 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 06:50:12 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 06:50:12 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 06:50:12 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 06:50:13 - discord_bot - INFO - Loaded extension cogs.ai_chat
+2025-03-23 06:50:13 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 06:50:13 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 06:50:13 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 06:50:13 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 06:50:13 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 06:59:45 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 06:59:45 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 06:59:45 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 06:59:45 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 06:59:46 - discord_bot - INFO - Loaded extension cogs.ai_chat
+2025-03-23 06:59:46 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 06:59:46 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 06:59:46 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 06:59:46 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 06:59:46 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 06:59:46 - discord_bot - ERROR - Failed to update status: 'NoneType' object has no attribute 'change_presence'
+2025-03-23 06:59:49 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:00:40 - discord_bot - ERROR - Error generating AI response: "Unable to determine the intended type of the `dict`. For `Content`, a 'parts' key is expected. For `Part`, either an 'inline_data' or a 'text' key is expected. For `Blob`, both 'mime_type' and 'data' keys are expected. However, the provided dictionary has the following keys: ['role', 'content']"
+2025-03-23 07:04:41 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:04:41 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:04:41 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:04:41 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:04:41 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:04:41 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:04:41 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:04:41 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:04:41 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:04:41 - discord_bot - ERROR - Failed to update status: 'NoneType' object has no attribute 'change_presence'
+2025-03-23 07:04:44 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:06:50 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:06:50 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:06:50 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:06:50 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:06:50 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:06:50 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:06:50 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:06:50 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:06:50 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:06:50 - discord_bot - ERROR - Failed to update status: 'NoneType' object has no attribute 'change_presence'
+2025-03-23 07:06:53 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:07:36 - discord_bot - INFO - Created giveaway-logs channel: 1353263899855683637
+2025-03-23 07:07:36 - discord_bot - INFO - Created giveaway-logs channel: 1353263900870705213
+2025-03-23 07:07:36 - discord_bot - INFO - Created ticket-logs channel: 1353263901105717319
+2025-03-23 07:07:36 - discord_bot - INFO - Created security-logs channel: 1353263902435311656
+2025-03-23 07:07:37 - discord_bot - INFO - Created ticket-logs channel: 1353263903248744501
+2025-03-23 07:07:37 - discord_bot - INFO - Created mod-logs channel: 1353263903521640579
+2025-03-23 07:07:37 - discord_bot - INFO - Created owner-logs channel: 1353263904784121898
+2025-03-23 07:07:37 - discord_bot - INFO - Created security-logs channel: 1353263904863686718
+2025-03-23 07:07:37 - discord_bot - INFO - Setup completed by lickzydaddy
+2025-03-23 07:07:37 - discord_bot - INFO - Created mod-logs channel: 1353263906784673855
+2025-03-23 07:07:38 - discord_bot - INFO - Created owner-logs channel: 1353263907703361588
+2025-03-23 07:07:38 - discord_bot - INFO - Setup completed by lickzydaddy
+2025-03-23 07:09:44 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:09:44 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:09:44 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:09:44 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:09:44 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:09:44 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:09:44 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:09:44 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:09:44 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:09:46 - discord_bot - INFO - Logged in as Mystic Looker
+2025-03-23 07:09:46 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:10:03 - discord_bot - INFO - Giveaway created: New giveaway for 20rs created by lickzydaddy
+2025-03-23 07:10:03 - discord_bot - ERROR - Failed to log to giveaway-logs channel: 'Guild' object has no attribute 'guild'
+2025-03-23 07:10:24 - discord_bot - INFO - lickzydaddy (1299158129900261409) purge #bot-testings | Reason: Purged 2 messages
+2025-03-23 07:12:16 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:12:46 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:13:16 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:13:46 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:14:16 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:14:46 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:15:10 - discord_bot - INFO - lickzydaddy (1299158129900261409) purge #🧃・chat | Reason: Purged 4 messages
+2025-03-23 07:15:16 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:15:46 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:16:16 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:16:46 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:17:16 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:17:46 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:18:16 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:18:46 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:19:16 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:19:46 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:20:16 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:20:46 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:21:16 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:21:46 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:21:52 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:21:52 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:21:52 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:21:52 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:21:52 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:21:52 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:21:52 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:21:52 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:21:52 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:21:55 - discord_bot - INFO - Logged in as Mystic Looker
+2025-03-23 07:21:55 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:21:58 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:22:16 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:22:25 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:22:46 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:22:55 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:23:45 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:23:45 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:23:45 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:23:45 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:23:45 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:23:45 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:23:45 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:23:45 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:23:45 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:23:48 - discord_bot - INFO - Logged in as Mystic Looker
+2025-03-23 07:23:48 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:23:50 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:24:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:24:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:25:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:25:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:25:56 - discord_bot - ERROR - Command error in serverinfo: Command raised an exception: AttributeError: 'Guild' object has no attribute 'region'
+2025-03-23 07:26:24 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:26:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:27:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
