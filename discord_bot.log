@@ -1,0 +1,196 @@
+2025-03-23 06:33:49,695 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 06:33:49,696 - discord.client - INFO - logging in using static token
+2025-03-23 06:33:50,419 - discord_bot - ERROR - Failed to connect to MongoDB: The DNS query name does not exist: _mongodb._tcp.your_cluster.mongodb.net.
+2025-03-23 06:33:50,424 - discord_bot - ERROR - Failed to load extension cogs.moderation: Extension 'cogs.moderation' raised an error: IndentationError: unexpected indent (moderation.py, line 154)
+2025-03-23 06:33:50,442 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 06:33:50,449 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 06:33:50,456 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 06:33:51,724 - discord_bot - INFO - Loaded extension cogs.ai_chat
+2025-03-23 06:33:51,733 - discord_bot - ERROR - Failed to load extension cogs.help_menu: Extension 'cogs.help_menu' raised an error: CommandRegistrationError: The command help is already an existing command or alias.
+2025-03-23 06:33:51,740 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 06:33:51,745 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 06:33:51,765 - discord_bot - ERROR - Failed to load extension cogs.utility: Extension 'cogs.utility' raised an error: TypeError: Commands or listeners must not start with cog_ or bot_ (in method Utility.bot_info)
+2025-03-23 06:33:51,768 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 06:50:12,316 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 06:50:12,316 - discord.client - INFO - logging in using static token
+2025-03-23 06:50:12,895 - discord_bot - ERROR - Failed to connect to MongoDB: The DNS query name does not exist: _mongodb._tcp.cluster0.mongodb.net.
+2025-03-23 06:50:12,903 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 06:50:12,904 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 06:50:12,905 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 06:50:12,906 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 06:50:13,138 - discord_bot - INFO - Loaded extension cogs.ai_chat
+2025-03-23 06:50:13,141 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 06:50:13,142 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 06:50:13,143 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 06:50:13,155 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 06:50:13,157 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 06:59:45,051 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 06:59:45,052 - discord.client - INFO - logging in using static token
+2025-03-23 06:59:45,339 - discord_bot - WARNING - Skipping MongoDB connection - will run with reduced functionality
+2025-03-23 06:59:45,350 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 06:59:45,354 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 06:59:45,357 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 06:59:45,360 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 06:59:46,293 - discord_bot - INFO - Loaded extension cogs.ai_chat
+2025-03-23 06:59:46,297 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 06:59:46,298 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 06:59:46,302 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 06:59:46,345 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 06:59:46,349 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 06:59:46,350 - discord_bot - ERROR - Failed to update status: 'NoneType' object has no attribute 'change_presence'
+2025-03-23 06:59:46,551 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f27acf950f8bf5e03c3f71a79966bb87).
+2025-03-23 06:59:49,348 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:00:40,343 - discord_bot - ERROR - Error generating AI response: "Unable to determine the intended type of the `dict`. For `Content`, a 'parts' key is expected. For `Part`, either an 'inline_data' or a 'text' key is expected. For `Blob`, both 'mime_type' and 'data' keys are expected. However, the provided dictionary has the following keys: ['role', 'content']"
+2025-03-23 07:04:40,927 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 07:04:40,927 - discord.client - INFO - logging in using static token
+2025-03-23 07:04:41,447 - discord_bot - WARNING - Skipping MongoDB connection - will run with reduced functionality
+2025-03-23 07:04:41,455 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:04:41,458 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:04:41,460 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:04:41,463 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:04:41,464 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:04:41,466 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:04:41,469 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:04:41,485 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:04:41,487 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:04:41,488 - discord_bot - ERROR - Failed to update status: 'NoneType' object has no attribute 'change_presence'
+2025-03-23 07:04:41,728 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 25be7ddc7f0c16ab04013e451c2c3b41).
+2025-03-23 07:04:44,491 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:06:49,974 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 07:06:49,975 - discord.client - INFO - logging in using static token
+2025-03-23 07:06:50,645 - discord_bot - WARNING - Skipping MongoDB connection - will run with reduced functionality
+2025-03-23 07:06:50,653 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:06:50,656 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:06:50,659 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:06:50,661 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:06:50,663 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:06:50,665 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:06:50,668 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:06:50,684 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:06:50,686 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:06:50,687 - discord_bot - ERROR - Failed to update status: 'NoneType' object has no attribute 'change_presence'
+2025-03-23 07:06:50,950 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9e5b0b40ca9a08f003fc4c4a3cb89d50).
+2025-03-23 07:06:53,578 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:07:36,260 - discord_bot - INFO - Created giveaway-logs channel: 1353263899855683637
+2025-03-23 07:07:36,497 - discord_bot - INFO - Created giveaway-logs channel: 1353263900870705213
+2025-03-23 07:07:36,629 - discord_bot - INFO - Created ticket-logs channel: 1353263901105717319
+2025-03-23 07:07:36,852 - discord_bot - INFO - Created security-logs channel: 1353263902435311656
+2025-03-23 07:07:37,077 - discord_bot - INFO - Created ticket-logs channel: 1353263903248744501
+2025-03-23 07:07:37,147 - discord_bot - INFO - Created mod-logs channel: 1353263903521640579
+2025-03-23 07:07:37,426 - discord_bot - INFO - Created owner-logs channel: 1353263904784121898
+2025-03-23 07:07:37,502 - discord_bot - INFO - Created security-logs channel: 1353263904863686718
+2025-03-23 07:07:37,791 - discord_bot - INFO - Setup completed by lickzydaddy
+2025-03-23 07:07:37,905 - discord_bot - INFO - Created mod-logs channel: 1353263906784673855
+2025-03-23 07:07:38,215 - discord_bot - INFO - Created owner-logs channel: 1353263907703361588
+2025-03-23 07:07:38,652 - discord_bot - INFO - Setup completed by lickzydaddy
+2025-03-23 07:09:43,477 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 07:09:43,478 - discord.client - INFO - logging in using static token
+2025-03-23 07:09:44,037 - discord_bot - WARNING - Skipping MongoDB connection - will run with reduced functionality
+2025-03-23 07:09:44,046 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:09:44,049 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:09:44,051 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:09:44,053 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:09:44,054 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:09:44,056 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:09:44,058 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:09:44,070 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:09:44,072 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:09:44,365 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1ea3b2202704ddceb65d897d9ccbafbb).
+2025-03-23 07:09:46,695 - discord_bot - INFO - Logged in as Mystic Looker
+2025-03-23 07:09:46,852 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:10:03,372 - discord_bot - INFO - Giveaway created: New giveaway for 20rs created by lickzydaddy
+2025-03-23 07:10:03,372 - discord_bot - ERROR - Failed to log to giveaway-logs channel: 'Guild' object has no attribute 'guild'
+2025-03-23 07:10:24,747 - discord_bot - INFO - lickzydaddy (1299158129900261409) purge #bot-testings | Reason: Purged 2 messages
+2025-03-23 07:12:16,926 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:12:46,926 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:13:16,925 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:13:46,927 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:14:16,927 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:14:46,925 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:15:10,604 - discord_bot - INFO - lickzydaddy (1299158129900261409) purge #🧃・chat | Reason: Purged 4 messages
+2025-03-23 07:15:16,927 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:15:46,926 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:16:16,925 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:16:46,927 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:17:16,926 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:17:46,926 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:18:16,926 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:18:46,926 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:19:16,927 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:19:46,926 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:20:16,628 - discord.ui.view - ERROR - Ignoring exception in view <TicketView timeout=None children=1> for item <Button style=<ButtonStyle.success: 3> url=None disabled=False label='Create Ticket' emoji=<PartialEmoji animated=False name='🎫' id=None> row=None sku_id=None>
+Traceback (most recent call last):
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/discord/ui/view.py", line 435, in _scheduled_task
+    await item.callback(interaction)
+  File "/project/sandbox/user-workspace/cogs/tickets.py", line 27, in create_ticket
+    existing_ticket = await TicketManager.get_user_ticket(
+AttributeError: type object 'TicketManager' has no attribute 'get_user_ticket'
+2025-03-23 07:20:16,925 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:20:29,067 - discord.ui.view - ERROR - Ignoring exception in view <TicketView timeout=None children=1> for item <Button style=<ButtonStyle.success: 3> url=None disabled=False label='Create Ticket' emoji=<PartialEmoji animated=False name='🎫' id=None> row=None sku_id=None>
+Traceback (most recent call last):
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/discord/ui/view.py", line 435, in _scheduled_task
+    await item.callback(interaction)
+  File "/project/sandbox/user-workspace/cogs/tickets.py", line 27, in create_ticket
+    existing_ticket = await TicketManager.get_user_ticket(
+AttributeError: type object 'TicketManager' has no attribute 'get_user_ticket'
+2025-03-23 07:20:46,925 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:21:16,927 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:21:25,935 - discord.ui.view - ERROR - Ignoring exception in view <TicketView timeout=None children=1> for item <Button style=<ButtonStyle.success: 3> url=None disabled=False label='Create Ticket' emoji=<PartialEmoji animated=False name='🎫' id=None> row=None sku_id=None>
+Traceback (most recent call last):
+  File "/usr/local/python/3.10.13/lib/python3.10/site-packages/discord/ui/view.py", line 435, in _scheduled_task
+    await item.callback(interaction)
+  File "/project/sandbox/user-workspace/cogs/tickets.py", line 27, in create_ticket
+    existing_ticket = await TicketManager.get_user_ticket(
+AttributeError: type object 'TicketManager' has no attribute 'get_user_ticket'
+2025-03-23 07:21:46,927 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:21:52,452 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 07:21:52,453 - discord.client - INFO - logging in using static token
+2025-03-23 07:21:52,808 - discord_bot - WARNING - Skipping MongoDB connection - will run with reduced functionality
+2025-03-23 07:21:52,812 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:21:52,813 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:21:52,814 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:21:52,815 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:21:52,817 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:21:52,818 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:21:52,825 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:21:52,826 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:21:52,828 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:21:53,077 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 005cbd3b5dc666174785da02c889980b).
+2025-03-23 07:21:55,432 - discord_bot - INFO - Logged in as Mystic Looker
+2025-03-23 07:21:55,671 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:21:58,029 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:22:16,926 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:22:25,660 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:22:46,938 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:22:55,661 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:23:45,204 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 07:23:45,204 - discord.client - INFO - logging in using static token
+2025-03-23 07:23:45,505 - discord_bot - WARNING - Skipping MongoDB connection - will run with reduced functionality
+2025-03-23 07:23:45,518 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:23:45,524 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:23:45,528 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:23:45,532 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:23:45,535 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:23:45,539 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:23:45,554 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:23:45,555 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:23:45,556 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:23:45,767 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9f94b80707b57719a1eb76bdad751742).
+2025-03-23 07:23:48,110 - discord_bot - INFO - Logged in as Mystic Looker
+2025-03-23 07:23:48,331 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:23:50,748 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:24:18,341 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:24:42,527 - discord.ui.view - ERROR - Ignoring exception in view <TicketView timeout=None children=1> for item <Button style=<ButtonStyle.success: 3> url=None disabled=False label='Create Ticket' emoji=<PartialEmoji animated=False name='🎫' id=None> row=None sku_id=None>
+Traceback (most recent call last):
+  File "/home/codespace/.python/current/lib/python3.10/site-packages/discord/ui/view.py", line 435, in _scheduled_task
+    await item.callback(interaction)
+  File "/project/sandbox/user-workspace/cogs/tickets.py", line 27, in create_ticket
+    existing_ticket = await TicketManager.get_user_ticket(
+AttributeError: type object 'TicketManager' has no attribute 'get_user_ticket'
+2025-03-23 07:24:48,342 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:25:18,342 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:25:48,343 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:25:56,889 - discord_bot - ERROR - Command error in serverinfo: Command raised an exception: AttributeError: 'Guild' object has no attribute 'region'
+2025-03-23 07:26:24,757 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:26:48,343 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:27:18,342 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
