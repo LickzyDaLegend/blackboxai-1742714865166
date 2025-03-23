@@ -196,3 +196,54 @@ AttributeError: type object 'TicketManager' has no attribute 'get_user_ticket'
 2025-03-23 07:27:18,342 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
 2025-03-23 07:27:48,341 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
 2025-03-23 07:28:18,341 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:28:48,342 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:29:18,341 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:29:48,343 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:30:18,342 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:30:48,342 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:31:18,343 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:31:48,342 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:32:18,342 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:32:41,910 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 07:32:41,911 - discord.client - INFO - logging in using static token
+2025-03-23 07:32:42,413 - discord_bot - WARNING - Skipping MongoDB connection - will run with reduced functionality
+2025-03-23 07:32:42,420 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:32:42,423 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:32:42,426 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:32:42,429 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:32:42,431 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:32:42,433 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:32:42,463 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:32:42,465 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:32:42,466 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:32:42,837 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 11594d47269d1cc339e3754bec77ca5d).
+2025-03-23 07:32:45,245 - discord_bot - INFO - Logged in as Mystic Looker
+2025-03-23 07:32:45,792 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:32:48,139 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:32:48,341 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:33:15,474 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:33:18,342 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:33:20,760 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 07:33:20,761 - discord.client - INFO - logging in using static token
+2025-03-23 07:33:21,224 - discord_bot - WARNING - Skipping MongoDB connection - will run with reduced functionality
+2025-03-23 07:33:21,232 - discord_bot - INFO - Loaded extension cogs.moderation
+2025-03-23 07:33:21,235 - discord_bot - INFO - Loaded extension cogs.security
+2025-03-23 07:33:21,237 - discord_bot - INFO - Loaded extension cogs.giveaways
+2025-03-23 07:33:21,240 - discord_bot - INFO - Loaded extension cogs.tickets
+2025-03-23 07:33:21,241 - discord_bot - INFO - Loaded extension cogs.premium
+2025-03-23 07:33:21,244 - discord_bot - INFO - Loaded extension cogs.badges
+2025-03-23 07:33:21,259 - discord_bot - INFO - Loaded extension cogs.utility
+2025-03-23 07:33:21,261 - discord_bot - INFO - Loaded extension cogs.setup
+2025-03-23 07:33:21,262 - discord_bot - INFO - Loaded extension cogs.help_menu
+2025-03-23 07:33:21,479 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d46d50f25cd3e3a01e5318be11fe3e3d).
+2025-03-23 07:33:23,828 - discord_bot - INFO - Logged in as Mystic Looker
+2025-03-23 07:33:23,974 - discord_bot - INFO - Connected to MongoDB
+2025-03-23 07:33:26,383 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:33:48,343 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:33:54,061 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:34:18,342 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:34:24,060 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:34:48,342 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:34:54,059 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:35:18,342 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:35:24,065 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
