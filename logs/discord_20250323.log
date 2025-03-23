@@ -136,3 +136,4 @@
 2025-03-23 07:26:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
 2025-03-23 07:27:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
 2025-03-23 07:27:48 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
+2025-03-23 07:28:18 - discord_bot - ERROR - Error ending giveaway: type object 'GiveawayManager' has no attribute 'get_giveaway'
